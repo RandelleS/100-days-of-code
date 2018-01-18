@@ -11,3 +11,21 @@
 **Link(s) to work**
 1. https://github.com/RandelleS/100-days-of-code
 2. https://github.com/RandelleS/HelloWorld
+
+
+### R1D12: January 17, 2018 (Wednesday)
+
+**Today's Progress**: More Github learning
+
+**Thoughts** Lack of motivation - how to solve?
+
+**Link(s) to work**
+
+
+### R1D13: January 18, 2018 (Thursday)
+
+**Today's Progress**: More Github learning
+
+**Thoughts**
+
+**Link(s) to work**
